@@ -2,9 +2,6 @@
 	"name": "nnn",
 	"version": "0.1.0",
 	"type": "module",
-	"engines": {
-    "node": "15.14.4"
-  },
 	"private": true,
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.11.4",
